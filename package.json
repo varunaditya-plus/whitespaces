@@ -16,7 +16,7 @@
   "commands": [
     {
       "name": "whitespaces",
-      "title": "Whitespaces",
+      "title": "Get whitespace characters",
       "description": "Easily copy/paste whitespace characters directly in Raycast.",
       "mode": "view"
     }
